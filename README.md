@@ -4,18 +4,17 @@
 
 Interdisciplinary PhD with a passion for data visualization/analysis, pragmatic software engineering, FOSS, and science! 
 
-----
+------------
 
-<table>
-  <tr>
-    <td>
-      ![Github Stats](https://github-readme-stats.vercel.app/api?username=7yl4r&show_icons=true&theme=default&hide_border=false&locale=en)
-    </td>
-    <td>
-      ![Counter](https://komarev.com/ghpvc/?username=7yl4r&style=flat-square&label=Profile%20Views)
-    </td>
-  </tr>
-</table>
+<center>
+
+. | .
+--|--
+![Github Stats](https://github-readme-stats.vercel.app/api?username=7yl4r&show_icons=true&theme=default&hide_border=false&locale=en) | ![Counter](https://komarev.com/ghpvc/?username=7yl4r&style=flat-square&label=Profile%20Views) 
+
+</center>
+
+------------
 
 <a href="https://twitter.com/7yl4r">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
