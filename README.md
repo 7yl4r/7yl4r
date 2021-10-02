@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <!-- <div align="center"> -->
 ### Github stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gtalarico&show_icons=true&theme=default&hide_border=false&locale=en)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=7yl4r&show_icons=true&theme=default&hide_border=false&locale=en)
 
 ---
 
-![Counter](https://komarev.com/ghpvc/?username=gtalarico&style=flat-square&label=Profile%20Views)
+![Counter](https://komarev.com/ghpvc/?username=7yl4r&style=flat-square&label=Profile%20Views)
