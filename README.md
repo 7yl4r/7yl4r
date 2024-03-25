@@ -2,10 +2,6 @@
 **7yl4r/7yl4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[Interdisciplinary PhD with a passion for data visualization/analysis, pragmatic software engineering, FOSS, and science!](https://tylar.info)
-
-------------
-
 <center>
 
 . | .
